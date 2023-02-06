@@ -6,13 +6,6 @@
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
-### Vídeo ensinando detalhadamente como criar este projeto
-https://www.youtube.com/watch?v=g3xJhlxNPbw&t=2s
-
-
-### Este projeto permite a realização de operações básicas com a cálculadora.
-
-
 <p> 
     <ul>
         <li>Soma</li>
